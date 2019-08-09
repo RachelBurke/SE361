@@ -1,0 +1,24 @@
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 5\SE361\BankingApplication\BankingApplication\bin\Debug\BankingDatabase.mdf
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 5\SE361\BankingApplication\BankingApplication\bin\Debug\BankingDatabase_log.ldf
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 5\SE361\BankingApplication\BankingApplication\bin\Debug\BankingApplication.exe.config
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 5\SE361\BankingApplication\BankingApplication\bin\Debug\BankingApplication.exe
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 5\SE361\BankingApplication\BankingApplication\bin\Debug\BankingApplication.pdb
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 5\SE361\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csprojResolveAssemblyReference.cache
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 5\SE361\BankingApplication\BankingApplication\obj\Debug\BankingApplication.BankingUI.resources
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 5\SE361\BankingApplication\BankingApplication\obj\Debug\BankingApplication.Properties.Resources.resources
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 5\SE361\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csproj.GenerateResource.cache
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 5\SE361\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csproj.CoreCompileInputs.cache
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 5\SE361\BankingApplication\BankingApplication\obj\Debug\BankingApplication.exe
+C:\Users\97rac\Documents\Butler\School\Year 3 - Junior\Semester 5\SE361\BankingApplication\BankingApplication\obj\Debug\BankingApplication.pdb
+T:\SE361\BankingApplication\BankingApplication\bin\Debug\BankingDatabase.mdf
+T:\SE361\BankingApplication\BankingApplication\bin\Debug\BankingDatabase_log.ldf
+T:\SE361\BankingApplication\BankingApplication\bin\Debug\BankingApplication.exe.config
+T:\SE361\BankingApplication\BankingApplication\bin\Debug\BankingApplication.exe
+T:\SE361\BankingApplication\BankingApplication\bin\Debug\BankingApplication.pdb
+T:\SE361\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csprojAssemblyReference.cache
+T:\SE361\BankingApplication\BankingApplication\obj\Debug\BankingApplication.BankingUI.resources
+T:\SE361\BankingApplication\BankingApplication\obj\Debug\BankingApplication.Properties.Resources.resources
+T:\SE361\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csproj.GenerateResource.cache
+T:\SE361\BankingApplication\BankingApplication\obj\Debug\BankingApplication.csproj.CoreCompileInputs.cache
+T:\SE361\BankingApplication\BankingApplication\obj\Debug\BankingApplication.exe
+T:\SE361\BankingApplication\BankingApplication\obj\Debug\BankingApplication.pdb
